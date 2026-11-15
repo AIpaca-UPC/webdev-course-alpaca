@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 1rem;
+  background-color: #f0f2f5;
+  color: #16273a;
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+}
+
+.perfl {
+  max-width: 36rem;
+  margin: 1rem auto;
+  padding: 1.5rem;
+  background-color: #e6f4ff;
+  border-radius: 1rem;
+}
