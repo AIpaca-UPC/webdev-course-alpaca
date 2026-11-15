@@ -60,21 +60,25 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   
 ## 👥 Elaboración
 
-Universidad Peruana de Ciencias Aplicadas
+### Universidad Peruana de Ciencias Aplicadas
 
-Carrera de Ingeniería de Software
+#### Carrera de Ingeniería de Software
 
 Período 202620
 
 1ASI0730 Aplicaciones Web
 
 NRC 8137
-**Nombre del equipo**: AIPaca
+
+**Nombre del equipo**: AIpaca
+
 **Líder del equipo**: Barrientos Quispe, Marcelo
+
 **Integrantes del equipo**:
 - Barrientos Quispe, Marcelo
 - Diaz Ramirez, Alejandro
 - Geronimo Puma, Kevin Joel
 - Lino Quispe, Leonardo Miguel
 - Meza Soza, Alexandra Yamile
+
 **Fecha de entrega**: 15/11/2026
