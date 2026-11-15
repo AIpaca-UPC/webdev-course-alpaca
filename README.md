@@ -13,26 +13,40 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
-- **Descripción**: Descubre qué es el desarrollo web, cómo funcionan los sitios web y por qué HTML y CSS son tecnologías fundamentales.
-- **Video de la lección**: [Ver Lección 1 en YouTube](https://youtu.be/MhXyCLyGcX4)
-- **Objetivos de aprendizaje**:
-  - Comprender qué es un sitio web.
-  - Identificar la función de HTML y CSS.
-  - Reconocer la diferencia entre estructura y presentación.
-  - Observar una página web sencilla en CodePen.
-- **Consejo clave**: HTML organiza el contenido y CSS define su apariencia.
-- **Práctica**: [Abrir CodePen](https://codepen.io/pen/)
+**Descripción:**
+En esta lección aprenderemos qué es el desarrollo web, cómo funcionan los sitios web y cuál es la diferencia entre HTML y CSS.
+**Objetivos de aprendizaje:**
+- Comprender qué es un sitio web.
+- Identificar para qué sirven HTML y CSS.
+- Diferenciar la estructura y la presentación visual de una página web.
+- Observar una demostración práctica utilizando CodePen.
+**Video de la lección:**
+https://youtu.be/MhXyCLyGcX4
+**Presentación de Canva:**
+https://canva.link/o86oovjtlv53guh
+**Herramienta de práctica:**
+https://codepen.io/pen/
+**Consejo clave:**
+HTML organiza el contenido de una página web, mientras que CSS define su apariencia visual.
+---
 ### Lección 2: Introducción a HTML (10 minutos)
-- **Descripción**: Aprende la estructura básica de HTML, el uso de etiquetas, elementos y atributos para construir tu primera página web.
-- **Video de la lección**: [Ver Lección 2 en YouTube](https://youtu.be/F_YXTLa8NuM)
-- **Objetivos de aprendizaje**:
-  - Reconocer la estructura de un documento HTML.
-  - Diferenciar las secciones head y body.
-  - Utilizar etiquetas h1, h2 y p.
-  - Comprender el funcionamiento de los atributos.
-  - Crear y personalizar una página web sencilla.
-- **Consejo clave**: Las etiquetas HTML permiten organizar y dar significado al contenido.
-- **Práctica**: [Abrir CodePen](https://codepen.io/pen/)
+**Descripción:**
+En esta lección aprenderemos la estructura básica de HTML, el uso de etiquetas, elementos y atributos para construir nuestra primera página web.
+**Objetivos de aprendizaje:**
+- Reconocer la estructura básica de un documento HTML.
+- Comprender la función de las etiquetas html, head y body.
+- Utilizar encabezados h1 y h2.
+- Crear párrafos mediante la etiqueta p.
+- Comprender el uso de los atributos HTML.
+- Crear y personalizar una página web sencilla.
+**Video de la lección:**
+https://youtu.be/F_YXTLa8NuM
+**Presentación de Canva:**
+https://canva.link/mkrexdeddkepg5i
+**Herramienta de práctica:**
+https://codepen.io/pen/
+**Consejo clave:**
+HTML permite estructurar y organizar el contenido de una página web mediante elementos y etiquetas.
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://youtu.be/-j8tAkanq1Y)
