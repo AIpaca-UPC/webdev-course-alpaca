@@ -128,7 +128,7 @@ CSS permite personalizar la apariencia de una página sin cambiar la estructura 
 
 ---
 
-### Lección 5: Crear una página web sencilla (15 minutos)
+### Lección 5: Crear una página web sencilla (11 minutos)
 
 **Descripción:**  
 Integraremos los conocimientos de HTML y CSS para desarrollar una página de perfil personal.
@@ -144,6 +144,19 @@ Pendiente de incorporación.
 
 **Consejo clave:**  
 Una página web sencilla puede construirse combinando una estructura HTML clara con estilos CSS.
+
+**Video de la lección:**  
+https://youtu.be/6oonuNj7vsk
+
+**Presentación de Canva:**  
+https://canva.link/1fwqztxe05ksr41
+
+**Herramienta de práctica:**  
+https://codepen.io/pen/
+
+**Código fuente incluido en el repositorio:**
+- `codigo-fuente/leccion-5/index.html`
+- `codigo-fuente/leccion-5/styles.css`
 
 ---
 
@@ -175,6 +188,8 @@ Los ejemplos de código están organizados por lección dentro de la carpeta `co
 | 1 | `codigo-fuente/leccion-1/index.html` | Estructura básica de una página web |
 | 1 | `codigo-fuente/leccion-1/styles.css` | Estilos para diferenciar HTML y CSS |
 | 2 | `codigo-fuente/leccion-2/index.html` | Etiquetas, elementos y atributos HTML |
+| 5 | `codigo-fuente/leccion-5/index.html` | Página de perfil personal |
+| 5 | `codigo-fuente/leccion-5/styles.css` | Estilos para la página de perfil |
 
 Para conocer cómo abrir y utilizar los ejemplos en CodePen o en un navegador, revisa `codigo-fuente/README.md`.
 
