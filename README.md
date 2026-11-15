@@ -9,19 +9,30 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Prerrequisitos**: Ninguno
 - **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**📂 Repositorio de código fuente**: https://github.com/AIpaca-OS/java-fundamentals-course-alpaca
+**📂 Repositorio de código fuente**: https://github.com/AIpaca-UPC/webdev-course-alpaca
 
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
-- **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
-- **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
+- **Descripción**: Descubre qué es el desarrollo web, cómo funcionan los sitios web y por qué HTML y CSS son tecnologías fundamentales.
+- **Video de la lección**: [Ver Lección 1 en YouTube](https://youtu.be/MhXyCLyGcX4)
+- **Objetivos de aprendizaje**:
+  - Comprender qué es un sitio web.
+  - Identificar la función de HTML y CSS.
+  - Reconocer la diferencia entre estructura y presentación.
+  - Observar una página web sencilla en CodePen.
+- **Consejo clave**: HTML organiza el contenido y CSS define su apariencia.
+- **Práctica**: [Abrir CodePen](https://codepen.io/pen/)
 ### Lección 2: Introducción a HTML (10 minutos)
-- **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-- **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
+- **Descripción**: Aprende la estructura básica de HTML, el uso de etiquetas, elementos y atributos para construir tu primera página web.
+- **Video de la lección**: [Ver Lección 2 en YouTube](https://youtu.be/F_YXTLa8NuM)
+- **Objetivos de aprendizaje**:
+  - Reconocer la estructura de un documento HTML.
+  - Diferenciar las secciones head y body.
+  - Utilizar etiquetas h1, h2 y p.
+  - Comprender el funcionamiento de los atributos.
+  - Crear y personalizar una página web sencilla.
+- **Consejo clave**: Las etiquetas HTML permiten organizar y dar significado al contenido.
+- **Práctica**: [Abrir CodePen](https://codepen.io/pen/)
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
