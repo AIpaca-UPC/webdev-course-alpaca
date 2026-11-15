@@ -114,38 +114,6 @@ HTML permite organizar contenido mediante listas, mostrar imágenes y conectar p
 
 ---
 
-### Lección 5: Crear una página web sencilla (15 minutos)
-- **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
-- **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
-### Lección 6: Consejos y Próximos Pasos (10 minutos)
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
-- **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
-- **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
-## Recursos Adicionales
-- **Código Fuente Completo**: https://github.com/AIpaca-UPC/webdev-course-alpaca
-
-- **Todas las Actividades Prácticas**:
-
-**Descripción:**  
-Aprenderemos a aplicar estilos a una página HTML mediante colores, fuentes, fondos y selectores CSS.
-
-**Objetivos de aprendizaje:**
-- Comprender para qué sirve CSS.
-- Reconocer la sintaxis de una regla CSS.
-- Identificar selectores, propiedades y valores.
-- Modificar colores, tipografías y fondos de una página.
-
-**Material audiovisual y actividad práctica:**  
-Pendientes de incorporación.
-
-**Consejo clave:**  
-CSS permite personalizar la apariencia de una página sin cambiar la estructura de su contenido.
-
----
-
 ### Lección 5: Crear una página web sencilla (11 minutos)
 
 **Descripción:**  
@@ -174,7 +142,7 @@ https://codepen.io/pen/
 
 **Código fuente incluido en el repositorio:**
 - `codigo-fuente/leccion-5/index.html`
-- `codigo-fuente/leccion-5/styles.css`
+- `codigo-fuente/leccion-5/style.css`
 
 ---
 
@@ -212,8 +180,13 @@ Los ejemplos de código están organizados por lección dentro de la carpeta `co
 | 1 | `codigo-fuente/leccion-1/index.html` | Estructura básica de una página web |
 | 1 | `codigo-fuente/leccion-1/styles.css` | Estilos para diferenciar HTML y CSS |
 | 2 | `codigo-fuente/leccion-2/index.html` | Etiquetas, elementos y atributos HTML |
+| 3 | `codigo-fuente/leccion-3/index.html` | Listas, imágenes y enlaces HTML |
+| 4 | `codigo-fuente/leccion-4/index.html` | Tablas y formularios HTML |
 | 5 | `codigo-fuente/leccion-5/index.html` | Página de perfil personal |
-| 5 | `codigo-fuente/leccion-5/styles.css` | Estilos para la página de perfil |
+| 5 | `codigo-fuente/leccion-5/style.css` | Estilos para la página de perfil |
+| 6 | `codigo-fuente/leccion-6/index.html` | Consejos y próximos pasos |
+| 6 | `codigo-fuente/leccion-6/styles.css` | Estilos para la página de consejos |
+
 
 Para conocer cómo abrir y utilizar los ejemplos en CodePen o en un navegador, revisa `codigo-fuente/README.md`.
 
