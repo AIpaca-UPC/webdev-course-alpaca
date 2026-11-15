@@ -189,8 +189,14 @@ Revisaremos buenas prácticas, errores frecuentes y recursos para continuar apre
 - Identificar recursos para seguir practicando.
 - Reconocer la documentación de MDN como material de consulta.
 
-**Material audiovisual y actividad final:**  
-Pendientes de incorporación.
+**Video de la lección:**
+https://youtu.be/o92KgFIiuyc
+
+**Presentación de Canva:**
+https://canva.link/p52e40ijvic8t4s
+
+**Herramienta de práctica:**  
+https://codepen.io/pen/
 
 **Consejo clave:**  
 La práctica constante y la revisión del código ayudan a mejorar nuestras habilidades de desarrollo web.
