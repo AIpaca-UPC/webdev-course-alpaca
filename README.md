@@ -57,7 +57,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - Compartir: #WebDevBeginners
 **¡Gracias por completar el curso!**
----ñ
+  
 ## 👥 Elaboración
 
 Universidad Peruana de Ciencias Aplicadas
@@ -68,8 +68,13 @@ Período 202620
 
 1ASI0730 Aplicaciones Web
 
-NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de su equipo]
-**Líder del equipo**: [Nombres y Apellidos del líder]
-**Integrantes del equipo**: [Nombres y Apellidos de cada participante]
-**Fecha de entrega**: [Fecha]
+NRC 8137
+**Nombre del equipo**: AIPaca
+**Líder del equipo**: Barrientos Quispe, Marcelo
+**Integrantes del equipo**:
+- Barrientos Quispe, Marcelo
+- Diaz Ramirez, Alejandro
+- Geronimo Puma, Kevin Joel
+- Lino Quispe, Leonardo Miguel
+- Meza Soza, Alexandra Yamile
+**Fecha de entrega**: 15/11/2026
