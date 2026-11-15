@@ -104,7 +104,9 @@ HTML permite organizar contenido mediante listas, mostrar imágenes y conectar p
 
 **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 
-**Video de la lección:** https://youtu.be/lE5zCoDd0gc
+**Video de la lección Parte 1:** https://www.youtube.com/watch?v=ml23n6lIK4s
+
+**Video de la lección Parte 2:** https://youtu.be/2WCrxpQVqyo
 
 **Presentación de Canva:** https://canva.link/fxwlnjmmtwaf272
 
