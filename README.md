@@ -12,26 +12,36 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **📂 Repositorio de código fuente**: https://github.com/AIpaca-UPC/webdev-course-alpaca
 
 ## Secuencia de la lección
+
+
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 **Descripción:**
 En esta lección aprenderemos qué es el desarrollo web, cómo funcionan los sitios web y cuál es la diferencia entre HTML y CSS.
+
+**Video de la lección:** https://youtu.be/MhXyCLyGcX4
+
+**Presentación de Canva:** https://canva.link/o86oovjtlv53guh
+
 **Objetivos de aprendizaje:**
 - Comprender qué es un sitio web.
 - Identificar para qué sirven HTML y CSS.
 - Diferenciar la estructura y la presentación visual de una página web.
 - Observar una demostración práctica utilizando CodePen.
-**Video de la lección:**
-https://youtu.be/MhXyCLyGcX4
-**Presentación de Canva:**
-https://canva.link/o86oovjtlv53guh
-**Herramienta de práctica:**
-https://codepen.io/pen/
+
+**Herramienta de práctica:** https://codepen.io/pen/
+
 **Consejo clave:**
 HTML organiza el contenido de una página web, mientras que CSS define su apariencia visual.
+
 ---
 ### Lección 2: Introducción a HTML (10 minutos)
 **Descripción:**
 En esta lección aprenderemos la estructura básica de HTML, el uso de etiquetas, elementos y atributos para construir nuestra primera página web.
+
+**Video de la lección:** https://youtu.be/F_YXTLa8NuM
+
+**Presentación de Canva:** https://canva.link/mkrexdeddkepg5i
+
 **Objetivos de aprendizaje:**
 - Reconocer la estructura básica de un documento HTML.
 - Comprender la función de las etiquetas html, head y body.
@@ -39,18 +49,20 @@ En esta lección aprenderemos la estructura básica de HTML, el uso de etiquetas
 - Crear párrafos mediante la etiqueta p.
 - Comprender el uso de los atributos HTML.
 - Crear y personalizar una página web sencilla.
-**Video de la lección:**
-https://youtu.be/F_YXTLa8NuM
-**Presentación de Canva:**
-https://canva.link/mkrexdeddkepg5i
+
 **Herramienta de práctica:**
 https://codepen.io/pen/
 **Consejo clave:**
 HTML permite estructurar y organizar el contenido de una página web mediante elementos y etiquetas.
 
+---
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 
 **Descripción:** En esta lección aprenderemos a utilizar listas, imágenes y enlaces en HTML para crear páginas web más completas e interactivas.
+
+**Video de la lección:** https://youtu.be/-j8tAkanq1Y
+
+**Presentación de Canva:** https://canva.link/oeiijvaqxqf8vrr
 
 **Objetivos de aprendizaje:**
 
@@ -60,19 +72,26 @@ HTML permite estructurar y organizar el contenido de una página web mediante el
 - Crear enlaces utilizando la etiqueta `<a>` y el atributo `href`.
 - Desarrollar una página web sencilla utilizando JSFiddle.
 
-**Video de la lección:** https://youtu.be/-j8tAkanq1Y
-
-**Presentación de Canva:** https://canva.link/oeiijvaqxqf8vrr
-
 **Herramienta de práctica:** https://jsfiddle.net/wv7fb4xh/4/
 
 **Consejo clave:** HTML permite organizar contenido mediante listas, mostrar imágenes y conectar páginas utilizando enlaces.
 
+---
+
 ### Lección 4: Introducción a CSS (12 minutos)
-- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+
+**Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
+
+**Video de la lección:** https://youtu.be/lE5zCoDd0gc
+
+**Presentación de Canva:** https://canva.link/fxwlnjmmtwaf272
+
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
+
+**Herramienta de práctica:** https://jsfiddle.net/b7Lscurv/1/
+
+---
+
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
@@ -84,7 +103,8 @@ HTML permite estructurar y organizar el contenido de una página web mediante el
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 ## Recursos Adicionales
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
+- **Código Fuente Completo**: https://github.com/AIpaca-UPC/webdev-course-alpaca
+
 - **Todas las Actividades Prácticas**:
 
 | Lección # | Actividad | Empezar a Programar |
@@ -105,7 +125,8 @@ HTML permite estructurar y organizar el contenido de una página web mediante el
 
 #### Carrera de Ingeniería de Software
 
-Período 202620
+Período 202620 <br>
+
 
 1ASI0730 Aplicaciones Web
 
@@ -123,3 +144,4 @@ NRC 8137
 - Meza Soza, Alexandra Yamile
 
 **Fecha de entrega**: 15/11/2026
+
