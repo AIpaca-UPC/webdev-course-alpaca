@@ -47,11 +47,27 @@ https://canva.link/mkrexdeddkepg5i
 https://codepen.io/pen/
 **Consejo clave:**
 HTML permite estructurar y organizar el contenido de una página web mediante elementos y etiquetas.
+
 ### Lección 3: Añadir más elementos HTML (8 minutos)
-- **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://youtu.be/-j8tAkanq1Y)
-- **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/wv7fb4xh/4/) 👈 **¡Comienza al instante!**
+
+**Descripción:** En esta lección aprenderemos a utilizar listas, imágenes y enlaces en HTML para crear páginas web más completas e interactivas.
+
+**Objetivos de aprendizaje:**
+
+- Comprender cómo funcionan las listas ordenadas y desordenadas.
+- Utilizar las etiquetas `<ul>`, `<ol>` y `<li>` para organizar información.
+- Insertar imágenes mediante la etiqueta `<img>` y sus atributos `src` y `alt`.
+- Crear enlaces utilizando la etiqueta `<a>` y el atributo `href`.
+- Desarrollar una página web sencilla utilizando JSFiddle.
+
+**Video de la lección:** https://youtu.be/-j8tAkanq1Y
+
+**Presentación de Canva:** https://canva.link/oeiijvaqxqf8vrr
+
+**Herramienta de práctica:** https://jsfiddle.net/wv7fb4xh/4/
+
+**Consejo clave:** HTML permite organizar contenido mediante listas, mostrar imágenes y conectar páginas utilizando enlaces.
+
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
