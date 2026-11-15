@@ -7,6 +7,8 @@ Esta carpeta contiene los ejemplos utilizados como apoyo para las lecciones de F
 - `leccion-1/index.html`: ejemplo de estructura HTML para reconocer el contenido de una página.
 - `leccion-1/styles.css`: estilos CSS para observar cómo cambia la presentación visual sin modificar la estructura HTML.
 - `leccion-2/index.html`: ejemplo de documento HTML con etiquetas, elementos y atributos básicos.
+- `leccion-3/index.html`: ejemplo práctico de listas, imágenes y enlaces HTML utilizando JSFiddle.
+
 
 ## Cómo utilizar los ejemplos
 
